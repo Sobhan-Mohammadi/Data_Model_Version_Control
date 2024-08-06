@@ -1,0 +1,9 @@
+# Ignore data files, they are tracked by DVC
+/data/
+
+# Ignore virtual environment
+venv/
+
+# Ignore DVC cache directory
+.dvc/cache/
+/data
