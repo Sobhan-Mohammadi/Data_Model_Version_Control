@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /home/sobhan/Desktop/Esbaar/Projects/DVC/data_folder_for_dvc
